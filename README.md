@@ -4,4 +4,5 @@ It includes:
 - Event planning documents and budgets
 - Market research reports and analysis
 - Email templates (confirmation, welcome, product, newsletter, and auto-responder)
+
 These files demonstrate skills in organization, project coordination, professional communication, and administrative support.
